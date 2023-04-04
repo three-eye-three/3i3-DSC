@@ -1,7 +1,7 @@
 {
-  "name": "Quasar-DSC",
+  "name": "3i3-DSC",
   "version": "1.2.5",
-  "description": "The most advanced and simultaneously user-friendly client for Deadshot.io that exists and will ever exist. Hopefully.",
+  "description": "The least advanced and simultaneously least user-friendly client for Kruster.io that exists and will ever exist. Hopefully.",
   "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -24,7 +24,7 @@
     "provider": "github",
     "releaseType": "release"
   },
-  "author": "jcjms & LordPhyre",
+  "author": "3i3",
   "license": "GPL-3.0",
   "devDependencies": {
     "@electron-forge/cli": "^6.0.4",
