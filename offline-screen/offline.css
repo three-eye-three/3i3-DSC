@@ -1,7 +1,6 @@
-@import url('https://fonts.cdnfonts.com/css/aquire');
 html {
     background: linear-gradient(to left, #195DCA, #6cd8ff);
-    font-family: 'Aquire', sans-serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 body { margin:0; padding:0; height:100%; width:100%; }
 .container {
